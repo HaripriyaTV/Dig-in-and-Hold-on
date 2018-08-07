@@ -23,6 +23,6 @@ Dig into my following contents and you would realise that Irrigation in India ha
    - Identifying the impact of irrigation development on environment and economy
 3. [Conclusion](https://github.com/HaripriyaTV/Dig-in-and-Hold-on/blob/master/Conclusion/README.md)
   
-
+PS: If Github snaps to open any of the above files, kindly check them out [here](https://anaconda.org/haripriya_t_v/notebooks).
 
  
