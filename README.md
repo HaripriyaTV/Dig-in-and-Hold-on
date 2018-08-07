@@ -10,7 +10,7 @@ Exploratory Data Analysis (EDA) is the first step in the data analysis process. 
 
 As a part of EDA, I have developed few visual methods to get a sense of India's Irrigation Potential.
 
-The link to the AQUASTAT database can be found [here](www.fao.org/nr/water/aquastat/data/query/index.html).
+The link to the AQUASTAT database can be found [here](http://www.fao.org/nr/water/aquastat/data/query/index.html).
 The data that I have queried from the database for exploration is attached [here](https://github.com/HaripriyaTV/Dig-in-and-Hold-on/blob/master/asiaaquastat.csv).
 
 Dig into my following contents and you would realise that Irrigation in India has to be held on.
